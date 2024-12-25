@@ -1,0 +1,72 @@
+{
+    "cart": {
+        "_id": "66cffe357147b11bcda9984a",
+        "userId": "66cffe357147b11bcda99849",
+        "items": [
+            {
+                "productId": "66a2b94650d9ec1409429197",
+                "productDetails": {
+                    "_id": "66a2b94650d9ec1409429197",
+                    "name": "Product1 toor dal",
+                    "categoryPath": [
+                        "66a2495650d9ec140942917c",
+                        "66a2498a50d9ec140942917d",
+                        "66a24a5d50d9ec1409429184"
+                    ],
+                    "image": "https://rukminim2.flixcart.com/image/300/350/xif0q/pulses/q/m/7/1-na-1-toor-dal-fortune-original-imagzddapswyrrtf.jpeg",
+                    "discountedPrice": 178.97,
+                    "price": 303.89
+                },
+                "quantity": 1
+            },
+            {
+                "productId": "66a2b97650d9ec1409429198",
+                "productDetails": {
+                    "_id": "66a2b97650d9ec1409429198",
+                    "name": "Product2 urad dal",
+                    "categoryPath": [
+                        "66a2495650d9ec140942917c",
+                        "66a2498a50d9ec140942917d",
+                        "66a24a6750d9ec1409429185"
+                    ],
+                    "image": "https://rukminim2.flixcart.com/image/300/350/xif0q/pulses/q/m/7/1-na-1-toor-dal-fortune-original-imagzddapswyrrtf.jpeg",
+                    "discountedPrice": 178.97,
+                    "price": 303.89
+                },
+                "quantity": 1
+            },
+            {
+                "productId": "66b510ba7e7d86a47956f0bf",
+                "productDetails": {
+                    "_id": "66b510ba7e7d86a47956f0bf",
+                    "name": "Product2 toor dal",
+                    "categoryPath": [
+                        "66a2495650d9ec140942917c",
+                        "66a2498a50d9ec140942917d",
+                        "66a24a5d50d9ec1409429184"
+                    ],
+                    "image": "https://rukminim2.flixcart.com/image/300/350/xif0q/pulses/q/m/7/1-na-1-toor-dal-fortune-original-imagzddapswyrrtf.jpeg",
+                    "discountedPrice": 178.97,
+                    "price": 303.89
+                },
+                "quantity": 1
+            },
+            {
+                "productId": "66b510c17e7d86a47956f0c0",
+                "productDetails": {
+                    "_id": "66b510c17e7d86a47956f0c0",
+                    "name": "Product3 toor dal",
+                    "categoryPath": [
+                        "66a2495650d9ec140942917c",
+                        "66a2498a50d9ec140942917d",
+                        "66a24a5d50d9ec1409429184"
+                    ],
+                    "image": "https://rukminim2.flixcart.com/image/300/350/xif0q/pulses/q/m/7/1-na-1-toor-dal-fortune-original-imagzddapswyrrtf.jpeg",
+                    "discountedPrice": 178.97,
+                    "price": 303.89
+                },
+                "quantity": 1
+            }
+        ]
+    }
+}
